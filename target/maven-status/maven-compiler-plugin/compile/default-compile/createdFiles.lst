@@ -1,0 +1,10 @@
+com/ecommerce/api/model/SubCategory.class
+com/ecommerce/api/repository/ProductRepository.class
+com/ecommerce/api/EcommerceApplication.class
+com/ecommerce/api/model/Category.class
+com/ecommerce/api/model/Product.class
+com/ecommerce/api/controller/ProductController.class
+com/ecommerce/api/controller/CategoryController.class
+com/ecommerce/api/bootstrap/DataSeeder.class
+com/ecommerce/api/repository/CategoryRepository.class
+com/ecommerce/api/repository/SubCategoryRepository.class
